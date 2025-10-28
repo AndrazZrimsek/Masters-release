@@ -1,4 +1,4 @@
-# Genomic Prediction of Environmental Adaptation in *Arabidopsis thaliana*
+# Explainable Deep Learning for Modeling Genomic Variation and Plant Environmental Adaptation
 
 This repository contains a complete pipeline for predicting environmental variables from genomic sequences using deep learning embeddings and machine learning models. The workflow processes raw genomic and environmental data, generates DNA sequence embeddings using foundation models, and trains predictive models to link genotype to phenotype.
 

@@ -1,0 +1,13 @@
+snp_index,n_distinct_single_variants,n_distinct_combo_variants,top_single_positions,top_single_alt_bases,top_single_n_accessions,top_combo_positions,top_combo_alt_bases,top_combo_n_accessions
+16,1,1,1,G,1,2;1,AG,1
+49,1,1,255,C,2,262;255;83,TCC,4
+51,1,4,498,G,3,235;236;498,AGG,9
+56,0,1,,,0,153;87;145,GGC,1
+168,3,1,145,A,77,144;145,GA,2
+226,2,1,145,G,1,145;117;112,CGT,1
+299,1,1,272,C,1,272;271;273,GAC,2
+310,1,0,297,A,1,,,0
+384,1,1,106,G,1,106;410;414,GGC,1
+386,2,14,212,A,13,251;212;256,AAA,66
+394,1,0,77,G,4,,,0
+485,2,0,48,A,1,,,0

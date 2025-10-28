@@ -1,0 +1,9 @@
+snp_index,n_distinct_single_variants,n_distinct_combo_variants,top_single_positions,top_single_alt_bases,top_single_n_accessions,top_combo_positions,top_combo_alt_bases,top_combo_n_accessions
+17,2,7,71,C,63,71;79,CA,9
+175,1,0,313,T,1,,,0
+219,1,0,293,C,1,,,0
+243,1,5,509,G,1,511;169;509,TAG,2
+294,1,0,14,T,1,,,0
+331,1,15,344,G,42,343;327;344,ACG,43
+340,0,3,,,0,235;234;220,GCT,8
+362,0,1,,,0,329;326;332,TCC,2
